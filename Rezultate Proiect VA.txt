@@ -1,0 +1,32 @@
+Scris complet :NP2, NP4, NP5, NP11, NP19, NP38, NP51, NP53, NP55, NP59, NP63, NP70, NP78 E,
+NP80, 
+
+
+Partial scris : NP1, NP8, NP35, NP39, NP41, NP47, NP60, NP67, NP85
+
+
+Doar placuta :NP14, NP20, NP23, NP32, NP37, NP46, NP54, NP56, NP71, NP81
+
+
+Placuta + altele : NP17, NP69
+
+
+Altele: NP15, NP25, NP26, NP27, NP29, NP33, NP36, NP40, NP43, NP44, NP45, NP48, NP49, NP50,
+
+NP62, NP66, NP72, NP75, NP76, NP77
+
+
+Erori :NP12 NC, NP13 NC, NP16 NC, NP18 NC, NP21 NC, NP22 NC, NP24 NC, NP28 NO, NP31 NC, 
+NP34 NC, NP42 NC, NP52 NC, NP57 NC, NP64 NC, NP68 NC, NP73 NC, NP79 NC, NP82 NC, NP84 NC,
+
+E - Stampila de pe placuta este citita ca si u 'e'
+NO - Not opened
+NC - no contour detected 
+
+
+75 - 33 = 42
+
+
+Total poze : 75
+Detectie placuta : 44% (33)
+Detectie scris : 19% (14)
